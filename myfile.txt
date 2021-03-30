@@ -4,7 +4,7 @@ This is developer1
 
 I am in solapur
 
-This is master branch
+This is feature branch
 
 I have changed this line
 
